@@ -1,6 +1,6 @@
 # IBM HR EMPLOYEE ATTRITION & PERFORMANCE ANALYSIS
 ## Project Overview
-This project analyzes the IBM HR Employee Attrition & Performance dataset using Excel, SQL and Power BI. It analyzes the dataset of **1,470 employee records** across **35 attributes**, this project identifies the strongest predictors of employee turnover_specifically examining the impact of overtime, job satisfaction,department, job role and other workforce factors. The objective of the project is to identify factors affecting employee attrition and prevents meaningfull insights.
+This project analyzes the IBM HR Employee Attrition & Performance dataset using Excel, SQL and Power BI. It analyzes the dataset of **1,470 employee records** across **35 attributes**. The project identifies the strongest predictors of employee turnover, specifically examining the impact of overtime, job satisfaction,department, job role and other workforce factors. The objective of the project is to identify factors affecting employee attrition and prevents meaningfull insights.
 
 ## Business Problem
 Employee attrition can negatively affect an oranization's productivity, increase recruitment costs and reduce workforce stability. 
@@ -8,7 +8,7 @@ Employee attrition can negatively affect an oranization's productivity, increase
 ## Dataset Information
 - Dataset: IBM HR Analytics Employee Attrition & Performance
 
-- Source: Kaggle
+- Source: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
 - Records: 1,470 Employees
 
@@ -29,6 +29,8 @@ Employee attrition can negatively affect an oranization's productivity, increase
 
 The following tasks were completed in Microsoft Excel:
 
+- Cleaned and prepared the data set for analysis.
+  
 - Calculated the employee attrition rate using COUNTIFS.
 
 - Created Pivot Tables to summarize HR data.
