@@ -1,53 +1,53 @@
 # IBM HR EMPLOYEE ATTRITION & PERFORMANCE ANALYSIS
 ## Project Overview
-This project analyzes the IBM HR Employee Attrition & Performance datase using Excel, SQL and Power BI. It analyzes the dataset of *1,470 employee records* across *35 attributes*, this project identifies the strongest predictors of employee turnover_specifically examining the impact of overtime, job satisfaction,department dynamics and others. The objective of the project is to identify factors affecting employee attrition and prevents meaningfull indights.
+This project analyzes the IBM HR Employee Attrition & Performance dataset using Excel, SQL and Power BI. It analyzes the dataset of *1,470 employee records* across *35 attributes*, this project identifies the strongest predictors of employee turnover_specifically examining the impact of overtime, job satisfaction,department, job role and other workforce factors. The objective of the project is to identify factors affecting employee attrition and prevents meaningfull insights.
 
 ## Business Problem
 Employee attrition can negatively affect an oranization's productivity, increase recruitment costs and reduce workforce stability. 
 
 ## Dataset Information
-• Dataset: IBM HR Analytics Employee Attrition & Performance
+- Dataset: IBM HR Analytics Employee Attrition & Performance
 
-• Source: Kaggle
+- Source: Kaggle
 
-• Records: 1,470 Employees
+- Records: 1,470 Employees
 
-• Features: 35 Employee Attributes
+- Features: 35 Employee Attributes
 
 ## Tools Used:
 
-• Microsoft Excel
+- Microsoft Excel
 
-• SQL
+- SQL
 
-• Power BI
+- Power BI
 
-• GitHub
+- GitHub
 
 
 ## Excel Analysis:
 
 The following tasks were completed in Microsoft Excel:
 
-• Calculated the employee attrition rate using COUNTIFS.
+- Calculated the employee attrition rate using COUNTIFS.
 
-• Created Pivot Tables to summarize HR data.
+- Created Pivot Tables to summarize HR data.
 
-• Performed Job Role vs Job Satisfaction analysis.
+- Performed Job Role vs Job Satisfaction analysis.
 
-• Flagged high-risk employees using nested IF statements.
+- Flagged high-risk employees using nested IF statements.
 
 ## SQL Analysis:
 
 SQL was used to answer key business questions, including:
 
-• Attrition rate by department.
+- Attrition rate by department.
 
-• Attrition rate by job role.
+- Attrition rate by job role.
 
-• Average monthly income of employees who left versus those who stayed.
+- Average monthly income of employees who left versus those who stayed.
 
-• Ranking job roles based on average years at the company.
+- Ranking job roles based on average years at the company.
 
 ## Power BI Dashboard:
 
@@ -55,38 +55,38 @@ An interactive dashboard was created to visualize employee attrition and workfor
 
 ### KPI Cards
 
-• Total Employees
+- Total Employees
 
-• Average Monthly Income
+- Average Monthly Income
 
-• Attrition Rate
+- Attrition Rate
 
-• Average Employee Age
+- Average Employee Age
 
-• Average Years at Company
+- Average Years at Company
 
 
 ### Dashboard Visualizations
 
-• Attrition Rate by Department and Overtime
+- Attrition Rate by Department and Overtime
 
-• Attrition Rate by Gender
+- Attrition Rate by Gender
 
-• Attrition Rate by Job Role
+- Attrition Rate by Job Role
 
-• Attrition Rate by Age Group
+- Attrition Rate by Age Group
 
 
 
 ## Key Findings:
 
-• Employees who worked overtime experienced higher attrition.
+- Employees who worked overtime experienced higher attrition.
 
-• Sales and Human Resources departments recorded relatively higher employee turnover.
+- Sales and Human Resources departments recorded relatively higher employee turnover.
 
-• Sales Executives and Research Scientists showed higher attrition compared to several other job roles.
+- Sales Executives and Research Scientists showed higher attrition compared to several other job roles.
 
-• Younger employees appeared more likely to leave the organization.
+- Younger employees appeared more likely to leave the organization.
 
 
 
@@ -94,15 +94,15 @@ An interactive dashboard was created to visualize employee attrition and workfor
 
 Based on the findings, the following recommendations are suggested:
 
-• Reduce excessive overtime by improving workload distribution.
+1.  Reduce excessive overtime by improving workload distribution.
 
-• Improve employee engagement and retention programs.
+2.  Improve employee engagement and retention programs.
 
-• Provide career growth opportunities for employees.
+3.  Provide career growth opportunities for employees.
 
-• Review compensation for high-risk job roles.
+4.  Review compensation for high-risk job roles.
 
-• Conduct regular employee satisfaction surveys.
+5.  Conduct regular employee satisfaction surveys.
 
 
 
