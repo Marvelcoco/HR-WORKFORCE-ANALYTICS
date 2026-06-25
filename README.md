@@ -120,6 +120,10 @@ Based on the findings, the following recommendations are suggested:
 
 This project demonstrates how Excel, SQL, and Power BI can be combined to analyze employee attrition and generate actionable business insights. The findings can help organizations improve employee retention, workforce planning, and overall HR decision-making.
 
+## Author
+**Name:** ALUOBE MARVELLOUS ILUEOGHENE
+**GitHub:** @Marvelcoco
+
 
 
 
