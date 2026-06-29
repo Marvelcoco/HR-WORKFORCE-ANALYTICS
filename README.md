@@ -79,7 +79,7 @@ An interactive dashboard was created to visualize employee attrition and workfor
 - Attrition Rate by Age Group
 
 ![EMPLOYEE ATTRITION DASHBOARD](https://github.com/Marvelcoco/HR-WORKFORCE-ANALYTICS/blob/main/EMPLOYEE%20ATTRITION%20DASHBOARD.png) 
-![( HR EMPLOYEE ATTRITION DASHBOARD]
+ HR EMPLOYEE ATTRITION DASHBOARD
 
 
 
@@ -95,7 +95,7 @@ An interactive dashboard was created to visualize employee attrition and workfor
 
 - Sales and Human Resources departments recorded relatively higher employee turnover.
 
-- Sales Executives and Research Scientists showed higher attrition compared to several other job roles.
+- Sales Representative and Laboratory Technician showed higher attrition compared to several other job roles.
 
 - Younger employees appeared more likely to leave the organization.
 
