@@ -79,7 +79,7 @@ An interactive dashboard was created to visualize employee attrition and workfor
 - Attrition Rate by Age Group
 
 ![EMPLOYEE ATTRITION DASHBOARD](https://github.com/Marvelcoco/HR-WORKFORCE-ANALYTICS/blob/main/EMPLOYEE%20ATTRITION%20DASHBOARD.png) 
- HR EMPLOYEE ATTRITION DASHBOARD
+ # HR EMPLOYEE ATTRITION DASHBOARD
 
 
 
